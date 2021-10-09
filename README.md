@@ -3,7 +3,7 @@ Pandas is a great tool for doing analysis on spreadsheets.
 
 It's easy to say that but let's actually learn why by doing something real.
 
-We're going to be analyzing NBA data to help understand why Pandas should be a tool in your data science toolkit. 
+We're going to be analyzing [NBA](https://www.nba.com/stats/) data to help understand why Pandas should be a tool in your data science toolkit. 
 
 But more importantly, doing something practical will help you better understand the need for a tool like Pandas.
 

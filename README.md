@@ -1,12 +1,18 @@
 # Try Pandas
-In this series, we're going to learn the fundamentals of the popular Python data science tool called Pandas.
+Pandas is a great tool for doing analysis on spreadsheets.
 
-Pandas is a fast data science tool written on Python. It's an amazing way to work with spreadsheets and peform all kinds of analysis. 
+It's easy to say that but let's actually learn why by doing something real.
 
-To learn Pandas, we'll be using an interactive notebook environment (also known as Jupyter Notebooks) so we can, visualize our results, experiment rapidly, and collaborate with others.
+We're going to be analyzing NBA data to help understand why Pandas should be a tool in your data science toolkit. 
 
-To get started, setup a deepnote environment (a collaborative space to run notebooks):
+But more importantly, doing something practical will help you better understand the need for a tool like Pandas.
+
+To help us work with Pandas in a practical way, we've teamed up with [Deepnote](https://deepnote.com/referral?token=cfe). [Deepnote](https://deepnote.com/referral?token=cfe) is a service that makes it easy to run interactive notebooks (also known as Juptyer Noteboks). These notebooks allow us to run Python & Pandas in a highly visual and highly interactive manner.
+
+What's better, notebooks allow non-technical team members to participate in a code-heavy document (as we'll see how).
+
+To get started, sign up for Deepnote using this [link](https://deepnote.com/referral?token=cfe) (This link will unlock pro features).
+
+Once you [sign up](https://deepnote.com/referral?token=cfe), you can automagically copy all the code in this repo with the following button:
 
 [<img src="https://deepnote.com/buttons/launch-in-deepnote.svg">](https://deepnote.com/launch?url=https://github.com/codingforentrepreneurs/Try-Pandas)
-
-The above link will copy all the code we have provided on [this github repository](https://github.com/codingforentrepreneurs/Try-Pandas). Once you have the code, you can start working in the notebooks.

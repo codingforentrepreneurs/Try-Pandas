@@ -1,0 +1,8 @@
+docs/** filter= diff=
+bin/**
+include/**
+lib/**
+
+*.ipynb filter=nbstripout
+*.zpln filter=nbstripout
+*.ipynb diff=ipynb

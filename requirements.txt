@@ -6,3 +6,4 @@ numpy
 requests
 requests-html
 openpyxl
+python-slugify

@@ -1,3 +1,8 @@
 pandas
 pre-commit
 nbstripout
+matplotlib
+numpy
+requests
+requests-html
+openpyxl

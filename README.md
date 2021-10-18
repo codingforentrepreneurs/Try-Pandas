@@ -1,7 +1,7 @@
 [![Try Pandas Logo](https://static.codingforentrepreneurs.com/media/projects/try-pandas/images/share/Try_Pandas_Share.png)](https://www.codingforentrepreneurs.com/projects/try-pandas)
 
 # Try Pandas
-Pandas is a great tool for doing analysis on spreadsheets.
+[Pandas](https://pandas.pydata.org/) is a great tool for doing analysis on spreadsheets.
 
 It's easy to say that but let's actually learn why by doing something real.
 
